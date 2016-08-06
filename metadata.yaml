@@ -1,0 +1,28 @@
+_repo: Turkey--a-Past-and-a-Future_10145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Toynbee, Arnold
+    alias: Toynbee, Arnold Joseph
+    birthdate: 1889
+    deathdate: 1975
+    gutenberg_agent_id: '3329'
+    url: http://www.gutenberg.org/2009/agents/3329
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_J._Toynbee
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Turkey'
+- !lcsh 'Turkey -- History'
+- !lcsh 'Eastern question'
+- GITenberg
+title: 'Turkey: a Past and a Future'
+url: http://www.gutenberg.org/ebooks/10145
