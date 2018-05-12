@@ -1,5 +1,8 @@
 _repo: Turkey--a-Past-and-a-Future_10145
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Toynbee, Arnold
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3329
     wikipedia: http://en.wikipedia.org/wiki/Arnold_J._Toynbee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10145#Turkey--a-Past-and-a-Future
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
